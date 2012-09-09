@@ -1,0 +1,11 @@
+Interactive mode Bison is written by Satya Kiran Popuri [spopur2@cs.uic.edu]
+The rest of this file is a verbatim copy of AUTHORS file in the Bison 2.3 distribution.
+
+Authors of GNU Bison.
+
+Bison was written primarily by Robert Corbett.
+
+Richard Stallman made it Yacc-compatible.
+
+Wilfred Hansen of Carnegie Mellon University added multicharacter
+string literals and other features.
